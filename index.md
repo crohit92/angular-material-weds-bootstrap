@@ -4,7 +4,7 @@
    <img src="./assets/angular-weds-bootstrap.png" alt="logo">
 </article>
 
-# You might have been using bootstrap the WRONG WAY !
+# You might be using bootstrap the WRONG WAY !
 **This post is for all Angular devs who `care for every byte downloaded` from the server to the client machine**
 
 <p style="display:flex;align-items:flex-start;">

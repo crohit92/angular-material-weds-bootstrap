@@ -153,4 +153,4 @@ I have put the source code [here](https://github.com/crohit92/angular-starter) f
 ---
 Hope you found the content useful and interesting. Please reach out to me for any feedback or suggestions. If you have your own idea to solve the same problem, please do share.
 
-Happy Coding ! Till them time we meet again. :)
+Happy Coding :)

@@ -5,7 +5,7 @@
 </article>
 
 # You might be using bootstrap the WRONG WAY !
-**This post is for all Angular devs who `care for every byte downloaded` from the server to the client machine**
+**This post is for those who `care for every byte downloaded` from the server to the client machine**
 
 <p style="display:flex;align-items:flex-start;">
    <img src="./assets/avatar.png"> 

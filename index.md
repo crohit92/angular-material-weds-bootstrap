@@ -37,7 +37,7 @@ We need:
    - width
    - and many more...
 - A grid framework which is intutive and easy to understand and at the same time very robust.
-- Rresponsive CSS utilities to adapts to the device width.
+- Responsive CSS utilities to adapts to the device width.
 
 **All the above requirements point to one of the most famous design libraries i.e. `Bootstrap`**  
 

@@ -14,7 +14,6 @@
    <span>I am always willing to have a healthy debate about technology. So drop me a mail at <a href="mailto:crohit92@gmail.com">crohit92@gmail.com</a> anytime to start a discussion. 
    </span>
    </span>
-   
 </p>
 
 
@@ -41,3 +40,24 @@ We need:
 - Rresponsive CSS utilities to adapts to the device width.
 
 **All the above requirements point to one of the most famous design libraries i.e. `Bootstrap`**  
+
+## The Necessary Evil - `Bootstrap`
+
+Due to the requirements mentioned above, frontend devs generally end up using bootstrap in their project along with other design libraries(for components), like Angular Material in my case.
+
+But why am i calling bootstrap an `Evil`? 
+
+What is wrong in having two libraries when one just provides components and the other provide layout. They must be a perfect mix right ?
+
+## Consequence of having bootstrap with Angular Material
+
+There are some issues, I want to point out, which occur when we use both these design libraries together.
+
+- The download bundle size increases more than the required
+   - Because bootstrap does not by default allow you to pick and choose what features you want from it. You have to take everything as a single bundle.
+- Bootstrap uses `!important` for almost every css utility which i hate the most. I always use the [Specificity rule](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) to override my styles when required. Using !important is a bad way of writing and should be avoided always.
+- Extra scripting library `jquery` which is not recommended with Angular.
+- Even extra JS for bootstrap as well - `bootstrap.js`
+
+The above consequences should be enough to start thinking of a better solution.
+

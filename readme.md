@@ -148,6 +148,8 @@ Left(The forked version of bootstrap) and Right(Complete bootstrap library)
 
 As you can see there is a `50% reduction in size of the bundle.`
 
+I have put the source code [here](https://github.com/crohit92/angular-starter) for reference.
+
 ---
 Hope you found the content useful and interesting. Please reach out to me for any feedback or suggestions. If you have your own idea to solve the same problem, please do share.
 

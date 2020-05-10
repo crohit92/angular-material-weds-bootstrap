@@ -4,15 +4,15 @@
    <img src="./assets/angular-weds-bootstrap.png" alt="logo">
 </article>
 
-# You might have been using bootstrap in an angular project the WRONG WAY !
+# You might have been using bootstrap the WRONG WAY !
 **This post is for all Angular devs who `care for every byte downloaded` from the server to the client machine**
 
 <p style="display:flex;align-items:flex-start;">
    <img src="./assets/avatar.png"> 
    <span style="padding-left:16px; display:flex;flex-direction:column; justify-content:space-between;">Hi, I am Rohit Chopra, an angular developer with strong focus on <b>application performance and maintainability.</b>
    <br/>
-   <br/>
-   I am always willing to have a healthy debate about technology. So drop me a mail at <a href="mailto:crohit92@gmail.com">crohit92@gmail.com</a> anytime to start a discussion. 
+   <span>I am always willing to have a healthy debate about technology. So drop me a mail at <a href="mailto:crohit92@gmail.com">crohit92@gmail.com</a> anytime to start a discussion. 
+   </span>
    </span>
    
 </p>
@@ -38,8 +38,6 @@ We need:
    - width
    - and many more...
 - A grid framework which is intutive and easy to understand and at the same time very robust.
-- This framework should also be responsive and adapts to the device width.
-
-This framework should be well written and have a small download footprint.
+- Rresponsive CSS utilities to adapts to the device width.
 
 **All the above requirements point to one of the most famous design libraries i.e. `Bootstrap`**  
